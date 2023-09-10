@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../k20d"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "newproject"
+  }
+}
